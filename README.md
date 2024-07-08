@@ -21,3 +21,11 @@ A simple script to automate mass reporting in Counter-Strike 2 using a bug in th
 ```bash
   pip install keyboard
 ```
+
+## How to Exploit the Bug
+
+* The bug consists of the report button on the players' card in the in-game scoreboard allowing multiple clicks, which can be used to automate mass reports. 
+
+* The report button I mentioned allows multiple clicks, opening a report window for each click without any limit as far as I have tested. 
+
+* My script is quite simple, but something more complex in the wrong hands could ruin the gaming experience for legitimate players, who could end up receiving unfair bans for disruptive behavior or seeing their trust factor decrease.
